@@ -59,7 +59,7 @@ kullanici_3.update(yeni_sozluk)
 print(kullanici_3)
 
 
-print(kullanici_3.get("takim", "Beşiktaş"))
+print(kullanici_3.get("Galataray", "Beşiktaş"))
 
 
 kullanici_3: dict = {
